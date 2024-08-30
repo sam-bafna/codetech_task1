@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/441589b6-e299-4d5b-b635-950367f2bbea)**Name:** Sameksha Bafna  
+**Name:** Sameksha Bafna  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT08DS7262  
 **Domain:** Machine Learning  
