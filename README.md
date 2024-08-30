@@ -5,7 +5,6 @@
 **Duration:** August to September 2024  
 **Mentor:** Neela Santhosh Kumar  
 
----
 
 # Overview of the Project
 
@@ -16,13 +15,11 @@
 ![image](https://github.com/user-attachments/assets/a0569424-4d18-415b-be6f-003132302811)
 
 
----
 
 **Objective:**
 
 The objective of this project is to build a predictive model using linear regression to estimate housing prices based on various features from the Ames Housing dataset. The project focuses on selecting relevant features, preprocessing the data, training the model, and evaluating its performance. Additionally, the project includes a demonstration of how the model can be used to predict the price of a house with given characteristics.
 
----
 
 **Key Activities:**
 
@@ -48,7 +45,6 @@ The objective of this project is to build a predictive model using linear regres
 6. **Prediction Example:**
    - Demonstrated the model's application by predicting the price of a house with specified characteristics (2000 sq ft, 3 bedrooms, located in 'OldTown').
 
----
 
 **Technology Used:**
 
@@ -57,8 +53,6 @@ The objective of this project is to build a predictive model using linear regres
   - **Data Handling:** `pandas`, `numpy`
   - **Visualization:** `seaborn`, `matplotlib`
   - **Modeling and Evaluation:** `scikit-learn` (including `LinearRegression`, `StandardScaler`, `train_test_split`, `mean_squared_error`, and `r2_score`)
-
----
 
 **Dataset:**
 
@@ -71,7 +65,6 @@ The objective of this project is to build a predictive model using linear regres
 - **Target Variable:**
   - `SalePrice`: Sale price of the house (in USD)
 
----
 
 **Conclusion:**
 
